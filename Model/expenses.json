@@ -1,0 +1,86 @@
+[
+  {
+    "Amount": "5000",
+    "Date": "2025-9-4",
+    "Category": "Education",
+    "Note": "Admission Fee For Pgd"
+  },
+  {
+    "Amount": "5000",
+    "Date": "2025-9-10",
+    "Category": "Shopping",
+    "Note": "Grocery"
+  },
+  {
+    "Amount": "1500",
+    "Date": "2025-9-16",
+    "Category": "Food",
+    "Note": "Lunch With Friends"
+  },
+  {
+    "Amount": "2000",
+    "Date": "2025-9-18",
+    "Category": "Phone",
+    "Note": "Mobile Balance"
+  },
+  {
+    "Amount": "14000",
+    "Date": "2025-9-27",
+    "Category": "Education",
+    "Note": "Monthly Fee For Pgd"
+  },
+  {
+    "Amount": "8000",
+    "Date": "2025-10-2",
+    "Category": "Car",
+    "Note": "Fuel"
+  },
+  {
+    "Amount": "5000",
+    "Date": "2025-10-9",
+    "Category": "Shopping",
+    "Note": "Gifts"
+  },
+  {
+    "Amount": "1500",
+    "Date": "2025-10-9",
+    "Category": "Food",
+    "Note": "Snacks"
+  },
+  {
+    "Amount": "10000",
+    "Date": "2025-10-10",
+    "Category": "Food",
+    "Note": "Birthday Dinner With Family"
+  },
+  {
+    "Amount": "12000",
+    "Date": "2025-10-10",
+    "Category": "Shopping",
+    "Note": "Grocery"
+  },
+  {
+    "Amount": "1500",
+    "Date": "2025-10-14",
+    "Category": "Food",
+    "Note": "Late-Night Craving"
+  },
+  {
+    "Amount": "14000",
+    "Date": "2025-11-8",
+    "Category": "Travel",
+    "Note": "Bus Ticket To Karachi"
+  },
+  {
+    "Amount": "14000",
+    "Date": "2025-11-10",
+    "Category": "Education",
+    "Note": "Monthly Fee For Pgd"
+  },
+  {
+    "Amount": "16000",
+    "Date": "2025-11-14",
+    "Category": "Shopping",
+    "Note": "Winter Clothes"
+  }
+]
